@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Downloads\BHound-master\BH-master\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Ryan\Downloads\BHound-master\BH-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_5cbaeca620a3f4fc2a776040dfa449f4b4981565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Downloads\BHound-master\BH-master\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\Ryan\Downloads\BHound-master\BH-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_aca671742880a595474798569491d08f525d7373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Downloads\BHound-master\BH-master\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\Ryan\Downloads\BHound-master\BH-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_a5a32bb49855eae4f7eec8397baf4494bd85f7f4\classes.dex" />
+    </item>
+
+</items>
